@@ -1,0 +1,3 @@
+Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+Male,0,No,No,2,Yes,Fiber optic,Month-to-month,Yes,Electronic check,95.5,191.0
+Female,0,Yes,Yes,65,Yes,No,Two year,No,Credit card,20.0,1300.0
